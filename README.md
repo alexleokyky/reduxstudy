@@ -1,2 +1,4 @@
 # redux-ru-tutorial
-Код для раздела [Подготовка/ESLint](https://maxfarseer.gitbooks.io/redux-course-ru/content/eslint.html)
+Код для [Настройка store](https://maxfarseer.gitbooks.io/redux-course-ru/content/sozdanie_store.html)
+
+Добавлено ```configureStore```
